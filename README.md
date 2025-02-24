@@ -45,14 +45,14 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 [Google's official architecture guidance](https://developer.android.com/topic/architecture).
 
-![architecture](preview/mvvm.png)
+![architecture](previews/mvvm.png)
 
 *This App* was built with [Guide to app architecture](https://developer.android.com/topic/architecture), so it would be a great sample to show how the architecture works in real-world projects.<br>
 
 
 ### UI Layer
 
-![layer](preview/layer.png)
+![layer](previews/layer.png)
 
 The UI Layer consists of UI elements like buttons, menus, tabs that could interact with users and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) that holds app states and restores data when configuration changes.
 
