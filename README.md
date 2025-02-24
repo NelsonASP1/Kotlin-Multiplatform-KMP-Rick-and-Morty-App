@@ -27,18 +27,18 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 </p>
 
 ## 🛠 Tech Stack & Open Source Libraries
-•⁠  ⁠Minimum SDK level 21.
-•⁠  ⁠100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-•⁠  ⁠Jetpack
-- Compose: Android’s modern toolkit for building native UI.
-- ViewModel: UI related data holder and lifecycle aware.
-- App Startup: Provides a straightforward, performant way to initialize components at application startup.
-- Paging: For navigating screens and [Paging KMP](https://github.com/cashapp/multiplatform-paging) 
-- Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
-  •⁠  ⁠[Ktor](https://github.com/skydoves/landscapist#glide): HTTP client
-  •⁠  ⁠[Koin](https://github.com/square/retrofit): Dependency Injection.
-  •⁠  ⁠[ksp](https://github.com/google/ksp): Kotlin Symbol Processing API.
-  •⁠  ⁠[viewmodel-lifecycle](https://github.com/skydoves/viewmodel-lifecycle): ViewModel Lifecycle allows you to track and observe Jetpack's ViewModel lifecycle changes.
+- Minimum SDK level 21.
+- 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+- Jetpack
+ - Compose: Android’s modern toolkit for building native UI.
+ - ViewModel: UI related data holder and lifecycle aware.
+ - App Startup: Provides a straightforward, performant way to initialize components at application startup.
+ - Paging: For navigating screens and [Paging KMP](https://github.com/cashapp/multiplatform-paging) 
+ - Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
+- [Ktor](https://github.com/skydoves/landscapist#glide): HTTP client
+- [Koin](https://github.com/square/retrofit): Dependency Injection.
+- [ksp](https://github.com/google/ksp): Kotlin Symbol Processing API.
+- [viewmodel-lifecycle](https://github.com/skydoves/viewmodel-lifecycle): ViewModel Lifecycle allows you to track and observe Jetpack's ViewModel lifecycle changes.
 
 
 ## 🏛️ Architecture
