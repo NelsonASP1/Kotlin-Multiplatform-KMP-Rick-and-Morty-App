@@ -1,3 +1,6 @@
+![cover](https://miro.medium.com/v2/resize:fit:800/1*s1Qj79wvcf5ZwseHR7ABnA.png)
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
@@ -12,3 +15,5 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+
