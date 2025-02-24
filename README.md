@@ -1,5 +1,8 @@
 ![cover](https://miro.medium.com/v2/resize:fit:800/1*s1Qj79wvcf5ZwseHR7ABnA.png)
 
+<p align="center">
+  <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
+</p>
 
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
@@ -13,8 +16,12 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 * `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
 
+## 📷 Previews
+
 <p align="center">
-  <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
+<img src="previews/preview1.png" alt="drawing" width="270px" />
+<img src="previews/preview2.png" alt="drawing" width="270px" />
+<img src="previews/preview3.png" alt="drawing" width="270px" /></br>
 </p>
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
