@@ -1,4 +1,4 @@
-![cover](https://miro.medium.com/v2/resize:fit:800/1*s1Qj79wvcf5ZwseHR7ABnA.png)
+![cover](previews/baner.jpg)
 
 <p align="center">
   <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
@@ -54,7 +54,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 ![layer](previews/layer.png)
 
-The UI Layer consists of UI elements like buttons, menus, tabs that could interact with users and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) that holds app states and restores data when configuration changes.
+The UI Layer consists of UI elements like buttons, menus, tabs that could interact with users and [ViewModel](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-viewmodel.html) that holds app states and restores data when configuration changes.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
