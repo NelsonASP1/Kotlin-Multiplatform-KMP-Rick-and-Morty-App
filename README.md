@@ -21,7 +21,9 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 <p align="center">
 <img src="previews/preview1.png" alt="drawing" width="270px" />
 <img src="previews/preview2.png" alt="drawing" width="270px" />
-<img src="previews/preview3.png" alt="drawing" width="270px" /></br>
+<img src="previews/preview3.png" alt="drawing" width="270px" /></br> </br>
+<img src="previews/preview4.png" alt="drawing" width="270px" />
+<img src="previews/preview5.png" alt="drawing" width="270px" />
 </p>
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
